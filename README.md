@@ -1,0 +1,2 @@
+# Detection-and-Prediction-on-Phishing-Websites
+Phishing websites are those websites that mimic the legitimate websites and deceive online users in order to steal their sensitive information. Phishing website identification can be defined in machine learning context as a typical classification problem. The aim is to predict the type of the website in an automated manner to either "legitimate" or "phishy" class labels based on a classifier generated from the training dataset. 
